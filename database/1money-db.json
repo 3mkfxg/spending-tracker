@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "currency": "$",
+  "cardBalance": 0,
+  "cashBalance": 0,
+  "savingsBalance": 0,
+  "monthlyLimit": 1000,
+  "settingsUpdatedAt": 0,
+  "currentMonthKey": "2026-10",
+  "updatedAt": 0,
+  "payments": [],
+  "incomes": [],
+  "savingsLogs": [],
+  "monthlyArchives": {}
+}

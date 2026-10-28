@@ -1,0 +1,29 @@
+{
+  "name": "spending-tracker",
+  "version": "2.0.0",
+  "description": "3MK F X G Spending Tracker — Personal Balance, Income & Monthly Spending Tracker with 3 Synchronized Copies (Desktop, iPhone, iPad), Monthly Analysis, and 1-Hour 'Was It Worth It?' Notifications",
+  "main": "server/server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3mkfxg/spending-tracker.git"
+  },
+  "homepage": "https://github.com/3mkfxg/spending-tracker#readme",
+  "scripts": {
+    "start": "node server/server.js",
+    "desktop": "node server/launch-desktop.js",
+    "sync-copies": "node scripts/sync-editions.js",
+    "test": "node scripts/test-suite.js"
+  },
+  "keywords": [
+    "3mkfxg",
+    "spending-tracker",
+    "savings-tracker",
+    "balance-tracker",
+    "iphone",
+    "ipad",
+    "desktop",
+    "sideload"
+  ],
+  "author": "3mkfxg",
+  "license": "MIT"
+}
