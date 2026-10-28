@@ -1,0 +1,23 @@
+{
+  "name": "3MK F X G — iPad Copy",
+  "short_name": "3MK F X G",
+  "description": "3MK F X G — 3 Balance Counters (Card, Cash, Total), Income & Payment Tracker, Monthly Analysis, and 1-Hour Worth-It Notifications.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
